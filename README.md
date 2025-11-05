@@ -3,7 +3,7 @@ ich bin student
 
 
 ##technologie, z którymi pracuje
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)
 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=gdx178195)](https://github.com/gdx178195/github-readme-stats)

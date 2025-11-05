@@ -9,6 +9,6 @@ ich bin student
 [![stats](https://github-readme-stats.vercel.app/api?username=gdx178195)](https://github.com/gdx178195/github-readme-stats)
 
 <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40", height="40" />
           
 </p>
